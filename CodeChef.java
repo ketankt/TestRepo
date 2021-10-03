@@ -26,7 +26,7 @@ public class CodeChef{
                     e.printStackTrace();
                 }
             }
-            return st.nextToken();
+            return st.nextoken();
         }
  
         int nextInt() { return Integer.parseInt(next()); }
